@@ -1,9 +1,7 @@
- 
- 
 /*  your css code here. If applicable */
 .middle{
     margin: auto;
-    width: 60%;
+    width: 100%;
 }
  
 .center{
@@ -26,9 +24,14 @@ td{
  
 .green{
     background-color: green;
+	height:25px;
 }
  
 .blue{
     background-color: blue;
+	height:25px;
+	
+}
+#t-image{
 	
 }
